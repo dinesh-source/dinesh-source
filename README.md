@@ -43,7 +43,7 @@
 #  <p align="center">Check out some of my projects:</p>
 
 <ul>
-  <li><a href="https://github.com/Sanjuchilukuri/CI-CD-Pipeline">Project  1</a> - CI/CD pipeline with jenkins.</li>
+  <li><a href="https://github.com/dinesh-source/dinesh-source">Project  1</a> - CI/CD pipeline with jenkins.</li>
   <li><a href="https://github.com/dinesh-source/blood-line">Project 2</a>- Bloodline</li>
 </ul>
 
